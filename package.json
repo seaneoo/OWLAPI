@@ -1,0 +1,30 @@
+{
+  "name": "owlapi",
+  "version": "1.0.0",
+  "description": "Overwatch League API wrapper for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seaneoo/OWLAPI.git"
+  },
+  "keywords": [
+    "overwatch",
+    "league",
+    "owl",
+    "api",
+    "rest"
+  ],
+  "author": "Sean O'Connor",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/seaneoo/OWLAPI/issues"
+  },
+  "homepage": "https://github.com/seaneoo/OWLAPI#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}

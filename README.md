@@ -6,10 +6,6 @@ A lightweight and fast promise based API wrapper for the Overwatch League.
 ```javascript
 const OWLAPI = require('owlapi');
 const owl = new OWLAPI('en-us'); // Optional language argument. Defaults to en-us.
-
-owl.allTeams('name').then(team => {
-  console.log(team);
-});
 ```
 
 ### Get an array of all the teams

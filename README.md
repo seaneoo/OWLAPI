@@ -40,3 +40,21 @@ tertiaryColor
 placement
 website
 ```
+
+### Languages
+
+```
+en-us
+es-mx
+es-es
+pt
+de
+fr
+it
+pl
+ru
+ja
+ko
+zh-tw
+zh-cn
+```

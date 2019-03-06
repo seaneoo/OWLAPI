@@ -11,3 +11,5 @@ owl.allTeams().then(team => {
   console.log(team);
 });
 ```
+
+``... OWLAPI('en-us')...`` Optional language parameter. Defaults to en-us.

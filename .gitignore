@@ -62,3 +62,6 @@ typings/
 
 # VS Code
 .vscode
+
+# Ignore my test file
+test.js

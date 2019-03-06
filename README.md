@@ -16,7 +16,7 @@ owl.allTeams('name').then(team => {
 
 ```javascript
 // Returns an array of values. Argument for allTeams is an object key.
-owl.allTeams('name').then(team => {
-  console.log(team);
+owl.allTeams('name').then(teams => {
+  
 });
 ```

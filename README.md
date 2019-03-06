@@ -1,4 +1,5 @@
 # OWLAPI
+
 A lightweight and fast promise based API wrapper for the Overwatch League.
 
 ## Usage
@@ -12,7 +13,5 @@ const owl = new OWLAPI('en-us'); // Optional language argument. Defaults to en-u
 
 ```javascript
 // Returns an array of values. Argument for allTeams is an object key.
-owl.allTeams('name').then(teams => {
-  
-});
+owl.allTeams('name').then(teams => {});
 ```

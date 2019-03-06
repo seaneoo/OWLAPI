@@ -15,3 +15,9 @@ const owl = new OWLAPI('en-us'); // Optional language argument. Defaults to en-u
 // Returns an array of values. Argument for allTeams is an object key.
 owl.allTeams('name').then(teams => {});
 ```
+### Get a single team
+
+```javascript
+// Returns a Team object.
+owl.team(4402).then(team => {});
+```

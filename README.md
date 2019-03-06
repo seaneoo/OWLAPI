@@ -2,7 +2,7 @@
 
 A lightweight and fast promise based API wrapper for the Overwatch League.
 
-![NPM](https://img.shields.io/npm/v/owlapi.svg?style=popout)
+![NPM](https://img.shields.io/npm/v/owlapi.svg?style=popout) ![Size](https://img.shields.io/bundlephobia/min/owlapi.svg?style=popout)
 
 ## Usage
 

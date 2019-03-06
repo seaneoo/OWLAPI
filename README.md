@@ -19,5 +19,5 @@ owl.allTeams('name').then(teams => {});
 
 ```javascript
 // Returns a Team object.
-owl.team(4402).then(team => {});
+owl.team('london spitfire').then(team => {});
 ```

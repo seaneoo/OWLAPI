@@ -1,6 +1,6 @@
 {
   "name": "owlapi",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "Overwatch League API wrapper for Node.js",
   "main": "index.js",
   "scripts": {

@@ -29,34 +29,8 @@ owl.team('london spitfire').then(team => {});
 
 ### Team
 
-```
-id
-name
-abbr
-logo
-division
-location
-primaryColor
-secondaryColor
-tertiaryColor
-placement
-website
-```
+`id, name, abbr, logo, division, location, primaryColor, secondaryColor, tertiaryColor, placement, website`
 
 ### Languages
 
-```
-en-us
-es-mx
-es-es
-pt
-de
-fr
-it
-pl
-ru
-ja
-ko
-zh-tw
-zh-cn
-```
+`en-us, es-mx, es-es, pt, de, fr, it, pl, ru, ja, ko, zh-tw, zh-cn`

@@ -14,7 +14,8 @@ const owl = new OWLAPI('en-us'); // Optional language argument. Defaults to en-u
 ### Get an array of all the teams
 
 ```javascript
-// Returns an array of values. Argument for allTeams is an object key.
+// Return an array for a piece of data from every team.
+// Use a variable name from the Team model as the argument.
 owl.allTeams('name').then(teams => {});
 ```
 
@@ -22,6 +23,7 @@ owl.allTeams('name').then(teams => {});
 
 ```javascript
 // Returns a Team object.
+// Use the name or numeric ID of a team.
 owl.team('london spitfire').then(team => {});
 ```
 
